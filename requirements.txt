@@ -1,0 +1,17 @@
+Here’s a `requirements.txt` file for your **Drawaria TextCanvasGen** project. This file lists all the dependencies required to run the script:
+
+```plaintext
+selenium==4.15.0
+```
+
+### Explanation:
+- **selenium**: The only required dependency for this project. It is used to automate the browser and interact with the Drawaria website.
+
+### How to Use:
+1. Save the above content in a file named `requirements.txt`.
+2. Install the dependencies by running the following command in your terminal or command prompt:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+This will ensure all necessary packages are installed for the script to run properly.
